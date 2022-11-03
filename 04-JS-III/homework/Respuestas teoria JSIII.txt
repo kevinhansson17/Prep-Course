@@ -1,0 +1,1 @@
+// Arrays: los arreglos son estructuras que nos permiten guardar elementos de distinta naturaleza (strings, booleanos, funciones, etc) bajo el nombre de una misma variable, y poseen sus propios comandos para manipular cualquier elemento que contenga.
