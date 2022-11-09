@@ -1,0 +1,2 @@
+// prototype: el comando prototype nos permite crear metodos por unica vez para que puedan ser utilizados por diversos objetos a partir de una clase "madre"; lo cual ahorra mucho procesamiento del CPU y reduce drasticamente le tiempo de codificacion para el programador.
+ // funcion constructor: es una funcion que crea una "clase madre" a partir de la cual se construyen objetos o clases que compartan sus propiedades, mediante el comando "new". En otras palabras, es una plantilla modelo que nos sirve para crear muchos objetos que tienen caracteristicas similares.
