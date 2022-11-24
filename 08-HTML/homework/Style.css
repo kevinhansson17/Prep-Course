@@ -1,0 +1,53 @@
+         h1 {
+        color: rgb(64, 165, 223);
+    }
+
+    h3 { 
+        color: antiquewhite;
+    }
+    h4 {
+        color: blanchedalmond;
+    }
+    #spanId {
+        color:goldenrod;
+        margin: 500px;
+    }
+
+    
+    img {
+        width: 400px;
+        height: 250px;
+    }
+    ul{
+        height: 700px;
+        width: 500px;
+        background-color: transparent ;
+        
+        margin: 50px;
+        padding: 50px; border: 4mm ridge rgba(211, 220, 50, .6); border-color: rgb(168, 206, 63);
+    }
+    li {
+        padding: 50px
+    }
+    
+   
+
+    #spanId {font-size: 18px; margin: 50px;
+        
+    }
+    a {font-size: 18px; margin: -47px; color: fuchsia;
+    }
+
+    body {
+        background: url("https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_960_720.jpg");
+        background-size: cover;
+        
+    }
+    
+
+    
+
+    
+
+    
+    

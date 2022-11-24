@@ -1,0 +1,30 @@
+img {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    top: 15px;
+    left: 5px;
+}
+#data {
+    position: absolute;
+    top: 0px;
+    left: 220px;
+    
+}
+p {
+    font-size:larger
+}
+.titles {
+    font-size: x-large;
+    font-weight: bold;
+}
+#skills {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}
+#hobbies {
+    position: absolute;
+    top: 250px;
+    right: 120px;
+}
